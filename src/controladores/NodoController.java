@@ -31,7 +31,7 @@ public class NodoController implements ActionListener {
         this.VistaPrincipal.btnAgregarNodo.addActionListener(this);
         
         
-        //levantar vista principal
+        
         this.VistaPrincipal.setExtendedState(frmPrincipal.MAXIMIZED_BOTH);
         this.VistaPrincipal.setVisible(true);
         
